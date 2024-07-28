@@ -10,7 +10,7 @@ chapter : false
 
 In this lab, you will learn the basic concepts of Docker as well as learn how to dockerize and deploy a Spring Boot project in Docker.
 
-![CICD](../images/1-Introduce/docker.png)
+![CICD](/Dungggg_Docker/images/1-Introduce/docker.png)
 
 #### Content
 
