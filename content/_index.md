@@ -1,17 +1,18 @@
 ---
-title : "Introduce Series 100 Days Cloud"
+title : "Docker"
 date : "`r Sys.Date()`"
 weight : 1
 chapter : false
 ---
 
-# Introduce Series 100 Days Cloud
-
+# Docker
 #### Overview
-AWS stands for **Amazon Web Services**. It is a comprehensive and widely-used cloud computing platform provided by Amazon.com. Launched in 2006, AWS offers a broad set of services including computing power, storage options, networking capabilities, databases, machine learning, and AI tools, among others, all delivered over the internet.
 
+In this lab, you will learn the basic concepts of Docker as well as learn how to dockerize and deploy a Spring Boot project in Docker.
+
+![CICD](../images/1-Introduce/docker.png)
 
 #### Content
 
-1. [Introduce about Keys Service Of Amazon](1-introduce-aws/)
-2. [Hands-on Lab Series](2-hands-on/)
+1. [Introduction to Docker](1-introduce/)
+2. [Dockerize](2-Dockerize/)
